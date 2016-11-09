@@ -1,0 +1,12 @@
+# the appId assigned by reddit
+metrics4reddit.reddit.appId=<<replace with appId obtained from reddit>>
+# the secret assigned by reddit
+metrics4reddit.reddit.secret=<<replace with secret obtained from reddit>>
+# the platform for this application
+metrics4reddit.userAgent.platform=script
+# the appId that goes in the user agent
+metrics4reddit.userAgent.appId=<<replace with an appid>>
+# the version that goes into the user agent
+metrics4reddit.userAgent.version=<<replace with a version>>
+# the user name that goes into the user agent
+metrics4reddit.userAgent.userName=<<replace with your username>>
